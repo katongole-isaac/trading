@@ -93,6 +93,56 @@ ___
 <details>
  <summary id="week-2"> <strong> Week 2 </strong> </summary>
 
+#### May 27<sup>th</sup> (Monday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     | 1         | -18            |
+| XAUUSD    | 0.01     | 2         | -25            |
+
+**Total Pips Collected: -43**
+
+#### May 28<sup>th</sup> (Tuesday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     | 1         | -50            |
+| XAUUSD    | 0.01     | 2         | -40            |
+| XAUUSD    | 0.01     | 3         |  30            |
+
+**Total Pips Collected: -60**
+
+#### May 29<sup>th</sup> (Wednesday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     |  3        |  2             |
+| XAUUSD    | 0.01     |  1        |  6             |
+| XAUUSD    | 0.01     |  1        |  176           |
+
+**Total Pips Collected: 184**
+
+#### May 30<sup>st</sup> (Thursday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     |    0      |  00           |
+
+**Total Pips Collected: 00**
+
+#### May 31<sup>st</sup> (Friday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     |    3      |  87           |
+
+**Total Pips Collected: 87**
+
+___
+
+**Total Pips Collected over this Week: ( 184 + 00 + 87 + -43 - 60 ) = 168**  
+
+
 </details>
 
 <details>
