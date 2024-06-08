@@ -150,11 +150,68 @@ ___
 <!-- Week -3 results -->
  <summary id="week-3"> <strong> Week 3 </strong> </summary>
 
+
+#### June 3<sup>rd</sup> (Monday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     |    3      |  -59           |
+| XAUUSD    | 0.01     |    3      |  -73           |
+
+**Total Pips Collected: -132**
+
+
+#### June 4<sup>th</sup> (Tuesday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     |    1      |   65          |
+| XAUUSD    | 0.01     |    1      |   21          |
+| XAUUSD    | 0.01     |    1      |  -28          |
+| XAUUSD    | 0.01     |    1      |  -42          |
+
+**Total Pips Collected: 16**
+
+#### June 5<sup>th</sup> (Wednesday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     |     1   |     -37        |
+| XAUUSD    | 0.01     |     1   |     148        |
+
+**Total Pips Collected: 111**
+
+#### June 6<sup>th</sup> (Thursday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     |     3  |   -56        |
+| XAUUSD    | 0.01     |     2  |   -48        |
+
+**Total Pips Collected: -104**
+
+#### June 7<sup>th</sup> (Friday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    |
+
+**NB: Due to presence of NFP news, no trade was taken**
+
+**Total Pips Collected: 00**
+
+___
+
+**Total Pips Collected over this Week: ( -132 + 16 + 111 + -104 + 00 ) = -109**  
+
+> **Nearly the entire week had major data releases and events, so I took less trades to avoid excessive market risk**
+
 </details>
 
 <!-- Week -4 results -->
 <details>
  <summary id="week-4"> <strong> Week 4 </strong> </summary>
+
 
 </details>
 
