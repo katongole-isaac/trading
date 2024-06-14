@@ -212,6 +212,56 @@ ___
 <details>
  <summary id="week-4"> <strong> Week 4 </strong> </summary>
 
+#### Jun 10<sup>th</sup> (Monday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     |      |          |
+| XAUUSD    | 0.01     |       |          |
+
+**Total Pips Collected: 00**
+> No trade was taken, the market conditions were unfavourable
+
+#### Jun 11<sup>th</sup> (Tuesday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     |     1  |   -47        |
+| XAUUSD    | 0.01     |     1  |   12        |
+| XAUUSD    | 0.01     |     1  |   12        |
+
+**Total Pips Collected: -23**
+
+#### Jun 12<sup>th</sup> (Wednesday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     |     1  |   -17        |
+| XAUUSD    | 0.01     |     1  |   -23        |
+
+**Total Pips Collected: -40**
+
+#### Jun 13<sup>th</sup> (Thursday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     |   1   |    107        |
+
+**Total Pips Collected: 107**
+
+#### Jun 14<sup>th</sup> (Friday)
+
+| Pair Name | Lot Size | Positions | Pips Collected | 
+------------|----------|-----------|----------------|
+| XAUUSD    | 0.01     |    |          |
+
+**Total Pips Collected: 00**
+> No trade was taken
+
+___
+
+**Total Pips Collected over this Week: ( -23 - 40 + 107 ) =  44**  
+
 
 </details>
 
